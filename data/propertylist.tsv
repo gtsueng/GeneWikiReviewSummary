@@ -1,0 +1,58 @@
+SubjectType	ObjectType	Property	PropertyName	PropertyUse
+disease	"organ, organism"	P689	afflicts	main
+drug	drug	P769	significant drug interation	main
+disease	phenotype	P780	symptoms	main
+disease	treatment	P924	possible treatment	main
+disease	portion of population that has the disease	P1193	prevalence	main
+natural product	taxon	P1582	natural product of taxon	main
+taxon	natural product	P1672	this taxon is source of	main
+disease	phenotype	P1909	side effect	main
+gene	disease	P1910	decreased expression in	main
+gene	disease	P1911	increased expression in	main
+gene	disease	P1912	deletion association with	main
+gene	disease	P1913	gene duplication association with	main
+gene	disease	P1914	gene insertion association with	main
+gene	disease	P1915	gene inversion association with	main
+gene	disease	P1916	gene substitution association with	main
+gene	disease	P1917	posttranslational modification	main
+gene	disease	P1918	altered regulation leads to	main
+"gene, disease"	"disease, gene"	P2293	genetic association	main
+disease	drug	P2176	drug used for treatment	main
+disease	"adult onset, neonatal onset, etc'"	P2841	age of onset	main
+variant	"gene, protein"	P3433	biological variant of	main
+variant	treatment	P3354	positive therapeutic predictor	main
+variant	treatment	P3355	negative therapeutic predictor	main
+variant	disease	P3356	positive diagnostic predictor	main
+variant	disease	P3357	negative diagnostic predictor	main
+variant	disease	P3358	positive prognostic predictor	main
+variant	disease	P3359	negative prognostic predictor	main
+drug	disease	P2175	medical condition treated	main
+drug	disease	P4044	therapeutic area	main
+drug	disease	P4954	may prevent	main
+disease	phenotype	P5131	possible medical findings of a condition	main
+phenotype	disease	P5132	suggests the existence of	main
+"gene, protein, hormones"	"cell, anatomy, medical condition"	P5572	expressed in	main
+cell type	"gene, protein"	P8872	has marker	main
+drug	n/a	P7999	Haz-Map ID	main
+drug	n/a	P7830	LiverTox ID	main
+drug	n/a	P8026	LiverTox likelihood score	main
+drug	protein for which this chemical acts as an activator	P3771	activator of	main
+drug	protein for which this chemical acts as an agonist	P3772	agonist of	main
+drug	protein for which this chemical compound acts as an antagonist	P3773	antagonist of	main
+drug	protein (e.g. channel/pore protein) for which this chemical compound acts as a blocker	P3774	blocker of	main
+drug	protein/protein complex for which this chemical compound acts as a disrupting agent	P3775	disrupting agent for	main
+drug	"protein for which this chemical compound acts as an inhibitor; only specify the inhibited function if the protein has more than one function (qualifier ""of"")"	P3776	inhibitor of	main
+drug	protein/gene for which this chemical (e.g. a miRNA/siRNA) acts as an antisense inhibitor	P3777	antisense inhibitor of	main
+drug	protein for which this chemical acts as a positive allosteric modulator	P3778	positive allosteric modulator of	main
+drug	protein for which this chemical compound acts as a negative allosteric modulator	P3779	negative allosteric modulator of	main
+all	all	P248	stated in	reference
+all	all	P3452	inferred from	reference
+all	all	P5852	item inherits value from	reference
+multiple	methodology	P459	determination method	qualifier
+multiple	multiple	P1552	has quality	qualifier
+drug	"drug class (antibiotic), GO biological process"	P2868	subject has role	qualifier
+multiple	multiple	P3680	statement supported by	qualifier
+multiple	"location, condition, variant"	P6531	observed in	qualifier
+condition	actual risk factor	P5642	risk factor	qualifier
+multiple	multiple	P3811	ECO ID	qualifier
+multiple	multiple	P1542	has effect	qualifier
