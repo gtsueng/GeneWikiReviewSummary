@@ -31,25 +31,25 @@
 29	Q415571	P2175	Q324464	Bleomycin	testicular cancer
 30	Q422185	P2175	Q790971	enalapril	Bartter disease
 31	Q422252	P2175	Q12078	dexamethasone	cancer
-32	Q415571	P2175	Q12284921	Bleomycin	lymphosarcoma
-33	Q422252	P2175	Q18554884	dexamethasone	retinal vein occlusion
-34	Q57055	P2175	Q56003062	paracetamol	susceptibility to severe influenza
-35	Q422252	P2175	Q84263196	dexamethasone	COVID-19
-36	Q155746	P2175	Q1054718	paricalcitol	kidney disease
-37	Q155746	P2175	Q736715	paricalcitol	chronic kidney disease
-38	Q422185	P2175	Q1641132	enalapril	malignant hypertension
-39	Q155746	P2175	Q1344835	paricalcitol	hyperparathyroidism
-40	Q422252	P2175	Q55789426	dexamethasone	precursor T-cell acute lymphoblastic leukemia
-41	Q155746	P2175	Q3622611	paricalcitol	secondary hyperparathyroidism
-42	Q422185	P2175	Q41861	enalapril	arterial hypertension
-43	Q422252	P2175	Q127076	dexamethasone	vomiting
-44	Q422252	P2175	Q268713	dexamethasone	mantle cell lymphoma
-45	Q422252	P2175	Q1088156	dexamethasone	chronic lymphocytic leukemia
-46	Q422252	P2175	Q2626074	dexamethasone	diffuse large B-cell lymphoma
-47	Q422252	P2175	Q5958765	dexamethasone	hypersensitivity
-48	Q57055	P2175	Q81938	paracetamol	pain
-49	Q15708271	P2175	Q1072420	obeticholic acid	primary biliary cirrhosis
-50	Q422252	P2175	Q8282	dexamethasone	dr covis
+32	Q422252	P2175	Q8282	dexamethasone	Addison's disease
+33	Q415571	P2175	Q12284921	Bleomycin	lymphosarcoma
+34	Q422252	P2175	Q18554884	dexamethasone	retinal vein occlusion
+35	Q57055	P2175	Q56003062	paracetamol	susceptibility to severe influenza
+36	Q422252	P2175	Q84263196	dexamethasone	COVID-19
+37	Q155746	P2175	Q1054718	paricalcitol	kidney disease
+38	Q155746	P2175	Q736715	paricalcitol	chronic kidney disease
+39	Q422185	P2175	Q1641132	enalapril	malignant hypertension
+40	Q155746	P2175	Q1344835	paricalcitol	hyperparathyroidism
+41	Q422252	P2175	Q55789426	dexamethasone	precursor T-cell acute lymphoblastic leukemia
+42	Q155746	P2175	Q3622611	paricalcitol	secondary hyperparathyroidism
+43	Q422185	P2175	Q41861	enalapril	arterial hypertension
+44	Q422252	P2175	Q127076	dexamethasone	vomiting
+45	Q422252	P2175	Q268713	dexamethasone	mantle cell lymphoma
+46	Q422252	P2175	Q1088156	dexamethasone	chronic lymphocytic leukemia
+47	Q422252	P2175	Q2626074	dexamethasone	diffuse large B-cell lymphoma
+48	Q422252	P2175	Q5958765	dexamethasone	hypersensitivity
+49	Q57055	P2175	Q81938	paracetamol	pain
+50	Q15708271	P2175	Q1072420	obeticholic acid	primary biliary cirrhosis
 51	Q415571	P2175	Q681817	Bleomycin	squamous cell carcinoma
 52	Q422252	P2175	Q208414	dexamethasone	lymphoma
 53	Q422252	P2175	Q816798	dexamethasone	amyloidosis
