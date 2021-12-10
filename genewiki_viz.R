@@ -105,10 +105,20 @@ unique(merge_gwv_gwr$Batch_updated)
 library(dplyr)
 temp3 <- merge_gwv_gwr[complete.cases(merge_gwv_gwr$case_category),]
 #View(temp3)
-ggplot(temp3, aes(x=case_category, y= views, col=case_category))+geom_boxplot()+theme_bw()+labs(title= "Title vs. Page Views", x= "Genes" , y="Page Views")+theme(plot.title = element_text(hjust = 0.5, face="bold"))
+p1 <- ggplot(temp3, aes(x=case_category, y= views, col=case_category))+geom_boxplot()+theme_bw()+labs(title= "Title vs. Page Views", x= "Genes" , y="Page Views")+theme(plot.title = element_text(hjust = 0.5, face="bold"))
 
 ggplot(temp3, aes(x=case_category, fill=case_category))+geom_bar()+theme_bw()
+ggplot2::ggsave(path="./numbers/",filename="boxplot_title_category_vs_views.pdf",p1,
+                width = 297, height = 210, units = "mm")
 
+# Sum of Views for rare disease genes (O)
+df_rare <- merge_gwv_gwr %>% dplyr::filter(case_category=="rare")
+View(df_rare)
+sum(df_rare$views) # 215695
 
-
-
+# Unique/Count of "status" in rare category (C)
+dim(df_rare %>% dplyr::distinct(status)) # 12 *1
+gwr_rare_status_count <- df_rare %>% dplyr::count(status)
+View(gwr_rare_status_count)
+write.xlsx(gwr_rare_status_count, "./numbers/gwr_rare_status_count.xlsx")
+# 11 unique; empty
