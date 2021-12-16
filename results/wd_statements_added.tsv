@@ -1,283 +1,283 @@
-	subjectQID	predicatePID	objectQID	subject	object
-0	Q57055	P769	Q410412	paracetamol	carbamazepin
-1	Q57055	P769	Q177094	paracetamol	imatinib
-2	Q57055	P769	Q423364	paracetamol	propranolol
-3	Q57055	P769	Q410400	paracetamol	phenytoin
-4	Q57055	P769	Q422652	paracetamol	rifampicin
-5	Q57055	P769	Q1135705	paracetamol	rifabutin
-6	Q57055	P769	Q304088	paracetamol	acenocoumarol
-7	Q57055	P769	Q423169	paracetamol	isoniazid
-8	Q14906847	P1911	Q199804	COL3A1	chronic obstructive pulmonary disease
-9	Q14906847	P1911	Q1365309	COL3A1	glioma
-10	Q14906847	P1911	Q62736	COL3A1	osteoarthritis
-11	Q14906847	P1911	Q504775	COL3A1	bladder cancer
-12	Q14906847	P1911	Q1330254	COL3A1	Dupuytren's contracture
-13	Q14906847	P1911	Q874586	COL3A1	Peyronie's disease
-14	Q14906847	P1911	Q128581	COL3A1	breast cancer
-15	Q14906847	P1911	Q1129105	COL3A1	diabetic nephropathy
-16	Q14906847	P1911	Q55788639	COL3A1	collagen type III glomerulopathy
-17	Q65948452	P1911	Q18553516	N-Terminal Propeptide of Type III Collagen	renal fibrosis
-18	Q65948452	P1911	Q3071321	N-Terminal Propeptide of Type III Collagen	liver fibrosis
-19	Q65948452	P1911	Q1472	N-Terminal Propeptide of Type III Collagen	Crohn's disease
-20	Q65948452	P1911	Q16499	N-Terminal Propeptide of Type III Collagen	hyperthyroidism
-21	Q14906847	P1911	Q5340515	COL3A1	systemic scleroderma
-22	Q14906847	P1911	Q2290446	COL3A1	idiopathic pulmonary fibrosis
-23	Q14906847	P1912	Q4907578	COL3A1	Bilateral frontoparietal polymicrogyria
-24	Q14906849	P1912	Q4907578	Col3a1	Bilateral frontoparietal polymicrogyria
-25	Q14906849	P1916	Q5340515	Col3a1	systemic scleroderma
-26	Q14906847	P1916	Q4907578	COL3A1	Bilateral frontoparietal polymicrogyria
-27	Q4907578	P2293	Q18033970	Bilateral frontoparietal polymicrogyria	ADGRG1
-28	Q14906847	P2293	Q3508605	COL3A1	autosomal dominant type IV Ehlers-Danlos syndrome
-29	Q415571	P2175	Q324464	Bleomycin	testicular cancer
-30	Q422185	P2175	Q790971	enalapril	Bartter disease
-31	Q422252	P2175	Q12078	dexamethasone	cancer
-32	Q422252	P2175	Q8282	dexamethasone	Addison's disease
-33	Q415571	P2175	Q12284921	Bleomycin	lymphosarcoma
-34	Q422252	P2175	Q18554884	dexamethasone	retinal vein occlusion
-35	Q57055	P2175	Q56003062	paracetamol	susceptibility to severe influenza
-36	Q422252	P2175	Q84263196	dexamethasone	COVID-19
-37	Q155746	P2175	Q1054718	paricalcitol	kidney disease
-38	Q155746	P2175	Q736715	paricalcitol	chronic kidney disease
-39	Q422185	P2175	Q1641132	enalapril	malignant hypertension
-40	Q155746	P2175	Q1344835	paricalcitol	hyperparathyroidism
-41	Q422252	P2175	Q55789426	dexamethasone	precursor T-cell acute lymphoblastic leukemia
-42	Q155746	P2175	Q3622611	paricalcitol	secondary hyperparathyroidism
-43	Q422185	P2175	Q41861	enalapril	arterial hypertension
-44	Q422252	P2175	Q127076	dexamethasone	vomiting
-45	Q422252	P2175	Q268713	dexamethasone	mantle cell lymphoma
-46	Q422252	P2175	Q1088156	dexamethasone	chronic lymphocytic leukemia
-47	Q422252	P2175	Q2626074	dexamethasone	diffuse large B-cell lymphoma
-48	Q422252	P2175	Q5958765	dexamethasone	hypersensitivity
-49	Q57055	P2175	Q81938	paracetamol	pain
-50	Q15708271	P2175	Q1072420	obeticholic acid	primary biliary cirrhosis
-51	Q415571	P2175	Q681817	Bleomycin	squamous cell carcinoma
-52	Q422252	P2175	Q208414	dexamethasone	lymphoma
-53	Q422252	P2175	Q816798	dexamethasone	amyloidosis
-54	Q57055	P2175	Q3936113	paracetamol	nasopharyngitis
-55	Q155746	P2175	Q476921	paricalcitol	kidney failure
-56	Q415571	P2175	Q180614	Bleomycin	melanoma
-57	Q422252	P2175	Q1765564	dexamethasone	septic shock
-58	Q415571	P2175	Q18975788	Bleomycin	spindle cell sarcoma
-59	Q422252	P2175	Q280027	dexamethasone	uveitis
-60	Q15708271	P2175	Q147778	obeticholic acid	liver cirrhosis
-61	Q15708271	P2175	Q603644	obeticholic acid	cholangitis
-62	Q422185	P2175	Q187255	enalapril	rheumatoid arthritis
-63	Q57055	P2175	Q242165	paracetamol	hyperthermia
-64	Q422252	P2175	Q101991	dexamethasone	inflammation
-65	Q422252	P2175	Q979168	dexamethasone	cerebral edema
-66	Q415571	P2175	Q18557991	Bleomycin	Hodgkin's lymphoma, mixed cellularity
-67	Q422252	P2175	Q8084905	dexamethasone	autoimmune disease
-68	Q422252	P2175	Q18556331	dexamethasone	cystoid macular edema
-69	Q422252	P2175	Q1138590	dexamethasone	non-Hodgkin lymphoma
-70	Q422252	P2175	Q1813737	dexamethasone	macular retinal edema
-71	Q422252	P2175	Q1963588	dexamethasone	hematopoietic system diseases
-72	Q422185	P2175	Q19000661	enalapril	congestive heart failure
-73	Q422185	P2175	Q486485	enalapril	anasarka
-74	Q14906847	P5572	Q3497796	COL3A1	visceral pleura
-75	Q14906847	P5572	Q839508	COL3A1	endometrium
-76	Q14906847	P5572	Q9656	COL3A1	appendix
-77	Q14906847	P5572	Q5880	COL3A1	vagina
-78	Q14906847	P5572	Q232358	COL3A1	tendon
-79	Q14906847	P5572	Q575064	COL3A1	synovial membrane
-80	Q14906847	P5572	Q2562472	COL3A1	myometrium
-81	Q14906847	P5572	Q666412	COL3A1	cervix
-82	Q14906847	P5572	Q3508689	COL3A1	parietal pleura
-83	Q15708271	P7830	ObeticholicAcid	obeticholic acid	ObeticholicAcid
-84	Q422185	P7830	Enalapril	enalapril	Enalapril
-85	Q57055	P7830	Acetaminophen	paracetamol	Acetaminophen
-86	Q415571	P7830	Bleomycin	Bleomycin	Bleomycin
-87	Q15708271	P8026	Q83284157	obeticholic acid	LiverTox toxicity likelihood category B
-88	Q422185	P8026	Q83284157	enalapril	LiverTox toxicity likelihood category B
-89	Q415571	P8026	Q83284515	Bleomycin	LiverTox toxicity likelihood category D
-90	Q57055	P3771	Q14906849	paracetamol	Col3a1
-91	Q155746	P3771	Q14906849	paricalcitol	Col3a1
-92	Q415571	P3771	Q24419440	Bleomycin	Col3a1
-93	Q415571	P3771	Q14906849	Bleomycin	Col3a1
-94	Q422185	P3771	Q14906849	enalapril	Col3a1
-95	Q1649777	P3771	Q14906847	quercitrin	COL3A1
-96	Q6954330	P3771	Q14906847	9-(N-methyl-L-isoleucine)-cyclosporin a	COL3A1
-97	Q15708271	P3776	Q24419440	obeticholic acid	Col3a1
-98	Q422252	P3776	Q14906849	dexamethasone	Col3a1
-99	Q18254813	P1910	Q187255	Tbx3	rheumatoid arthritis
-100	Q18031866	P1910	Q12174	TBX3	obesity
-101	Q18031866	P1911	Q212961	TBX3	pancreatic cancer
-102	Q18031866	P1911	Q180614	TBX3	melanoma
-103	Q18031866	P1911	Q188874	TBX3	colorectal cancer
-104	Q18031866	P1911	Q623031	TBX3	liver cancer
-105	Q18031866	P1911	Q128581	TBX3	breast cancer
-106	Q18031866	P1911	Q1076087	TBX3	chondrosarcoma
-107	Q18031866	P1911	Q172341	TBX3	ovarian cancer
-108	Q18031866	P1911	Q1783924	TBX3	head and neck cancer
-109	Q18031866	P1911	Q1827425	TBX3	liposarcoma
-110	Q18031866	P1911	Q3658562	TBX3	non-small-cell lung carcinoma
-111	Q18031866	P1911	Q1362453	TBX3	fibrosarcoma
-112	Q18031866	P1911	Q1898141	TBX3	rhabdomyosarcoma
-113	Q18031866	P1911	Q3658392	TBX3	stomach carcinoma
-114	Q18031866	P1912	Q7879712	TBX3	ulnar-mammary syndrome
-115	Q18031866	P1918	Q504775	TBX3	bladder cancer
-116	Q18031866	P2293	Q7879712	TBX3	ulnar-mammary syndrome
-117	Q18031866	P2293	Q188874	TBX3	colorectal cancer
-118	Q18031866	P5572	Q9386	TBX3	urethra
-119	Q18031866	P5572	Q9625	TBX3	prostate
-120	Q18031866	P5572	Q712294	TBX3	adrenal gland
-121	Q18031866	P5572	Q5938041	TBX3	right lung
-122	Q18031866	P5572	Q19065	TBX3	adrenal cortex
-123	Q928424	P780	Q9690	Barth syndrome	fatigue
-124	Q928424	P780	Q181754	Barth syndrome	heart failure
-125	Q928424	P780	Q396013	Barth syndrome	agranulocytosis
-126	Q928424	P780	Q189331	Barth syndrome	heart arrhythmia
-127	Q928424	P780	Q283656	Barth syndrome	dilated cardiomyopathy
-128	Q928424	P780	Q1364270	Barth syndrome	hypertrophic cardiomyopathy
-129	Q928424	P780	Q1497481	Barth syndrome	failure to thrive
-130	Q928424	P780	Q1162164	Barth syndrome	clubfoot
-131	Q928424	P780	Q692536	Barth syndrome	muscular disease
-132	Q928424	P780	Q1435822	Barth syndrome	neutropenia
-133	Q928424	P780	Q3500973	Barth syndrome	lipoatrophy
-134	Q928424	P780	Q3842198	Barth syndrome	Macrotia
-135	Q928424	P780	Q1547640	Barth syndrome	organic acidemia
-136	Q928424	P780	Q3598794	Barth syndrome	3-methylglutaconic aciduria
-137	Q928424	P780	Q1988987	Barth syndrome	X-linked recessive
-138	Q928424	P780	Q5376225	Barth syndrome	endocardial fibroelastosis
-139	Q928424	P780	Q5420062	Barth syndrome	Exercise intolerance
-140	Q928424	P780	Q5379401	Barth syndrome	enophthalmia
-141	Q928424	P780	Q3922672	Barth syndrome	progenism
-142	Q928424	P780	Q7128426	Barth syndrome	palmoplantar keratosis
-143	Q928424	P780	Q11341872	Barth syndrome	myopathic facies
-144	Q928424	P2293	Q14881093	Barth syndrome	TAFAZZIN
-145	Q14881093	P2293	Q928424	TAFAZZIN	Barth syndrome
-146	Q14881093	P5572	Q170758	TAFAZZIN	lymph node
-147	Q14881093	P5572	Q7873	TAFAZZIN	blood
-148	Q14881093	P5572	Q9371	TAFAZZIN	spleen
-149	Q15311673	P1916	Q63226395	SMC1A	Cornelia de Lange syndrome 2
-150	Q15311673	P5572	Q27043948	SMC1A	material anatomical entity
-151	Q15311673	P5572	Q2346242	SMC1A	retinal pigment epithelium
-152	Q15311673	P5572	Q6135922	SMC1A	sural nerve
-153	Q15311673	P5572	Q33196	SMC1A	embryo
-154	Q15311673	P5572	Q9656	SMC1A	appendix
-155	Q15311673	P5572	Q9368	SMC1A	liver
-156	Q15311673	P5572	Q1759640	SMC1A	cancellous bone
-157	Q18252303	P1911	Q12301086	Mid1	allergic asthma
-158	Q18029131	P1911	Q181257	MID1	prostate cancer
-159	Q18029131	P1911	Q11081	MID1	Alzheimer's disease
-160	Q18252303	P1912	Q3508750	Mid1	Opitz-GBBB syndrome
-161	Q18029131	P1915	Q3508750	MID1	Opitz-GBBB syndrome
-162	Q18029131	P5572	Q29578493	MID1	squamous epithelium
-163	Q18029131	P5572	Q84133	MID1	myocardium
-164	Q18029131	P5572	Q753278	MID1	substantia nigra
-165	Q18029131	P5572	Q866324	MID1	hair follicle
-166	Q18029131	P5572	Q75839	MID1	cerebral cortex
-167	Q55999739	P780	Q1497481	glucocorticoid deficiency 2	failure to thrive
-168	Q55999739	P780	Q275419	glucocorticoid deficiency 2	hypotension
-169	Q55999739	P780	Q1641068	glucocorticoid deficiency 2	hyperpigmentation
-170	Q18299303	P1912	Q12174	Mrap2	obesity
-171	Q18042338	P1912	Q55999739	MRAP	glucocorticoid deficiency 2
-172	Q18042338	P1914	Q55999739	MRAP	glucocorticoid deficiency 2
-173	Q18048856	P1916	Q12174	MRAP2	obesity
-174	Q18042338	P1916	Q55999739	MRAP	glucocorticoid deficiency 2
-175	Q55999739	P2293	Q18042338	glucocorticoid deficiency 2	MRAP
-176	Q18048856	P5572	Q5407200	MRAP2	middle temporal gyrus
-177	Q18048856	P5572	Q707468	MRAP2	popliteal artery
-178	Q18048856	P5572	Q575064	MRAP2	synovial membrane
-179	Q18042338	P5572	Q30015788	MRAP	subcutaneous adipose tissue
-180	Q18048856	P5572	Q615993	MRAP2	thoracic aorta
-181	Q18042338	P5572	Q18088623	MRAP	abdominal fat
-182	Q18042338	P5572	Q712294	MRAP	adrenal gland
-183	Q18048856	P5572	Q2349469	MRAP2	ascending aorta
-184	Q18048856	P5572	Q18680	MRAP2	prefrontal cortex
-185	Q18042338	P5572	Q193583	MRAP	adipose tissue
-186	Q264118	P780	Q1129121	acute myeloid leukemia	splenomegaly
-187	Q1133289	P780	Q183560	Cornelia de Lange syndrome	intellectual disability
-188	Q264118	P780	Q5445	acute myeloid leukemia	anemia
-189	Q264118	P780	Q9690	acute myeloid leukemia	fatigue
-190	Q264118	P780	Q166019	acute myeloid leukemia	bleeding
-191	Q264118	P780	Q718113	acute myeloid leukemia	weight loss
-192	Q264118	P780	Q254327	acute myeloid leukemia	anorexia
-193	Q17119515	P780	Q56014002	Mungan syndrome	chronic intestinal pseudoobstruction
-194	Q264118	P2293	Q20969980	acute myeloid leukemia	KRAS
-195	Q264118	P2293	Q17861031	acute myeloid leukemia	CEBPA
-196	Q264118	P2293	Q20969938	acute myeloid leukemia	KIT
-197	Q264118	P2293	Q18034873	acute myeloid leukemia	RABGAP1L
-198	Q7434154	P2293	Q18031010	sclerocornea	RAD21
-199	Q1133289	P2293	Q15311620	Cornelia de Lange syndrome	NIPBL
-200	Q1133289	P2293	Q18031010	Cornelia de Lange syndrome	RAD21
-201	Q264118	P2293	Q14914527	acute myeloid leukemia	ETV6
-202	Q18031010	P2293	Q17119515	RAD21	Mungan syndrome
-203	Q264118	P2293	Q18030425	acute myeloid leukemia	PDGFRB
-204	Q1133289	P2293	Q18033850	Cornelia de Lange syndrome	SMC3
-205	Q1133289	P2293	Q15311673	Cornelia de Lange syndrome	SMC1A
-206	Q18031010	P2293	Q7434154	RAD21	sclerocornea
-207	Q264118	P2293	Q18039571	acute myeloid leukemia	SETD2
-208	Q18031010	P2293	Q264118	RAD21	acute myeloid leukemia
-209	Q1133289	P2293	Q18042128	Cornelia de Lange syndrome	HDAC8
-210	Q17119515	P2293	Q18031010	Mungan syndrome	RAD21
-211	Q264118	P2293	Q7389878	acute myeloid leukemia	SETBP1
-212	Q264118	P2293	Q14914514	acute myeloid leukemia	JAK2
-213	Q264118	P2293	Q14912399	acute myeloid leukemia	FLT3
-214	Q18031010	P2293	Q1133289	RAD21	Cornelia de Lange syndrome
-215	Q264118	P2293	Q18031010	acute myeloid leukemia	RAD21
-216	Q264118	P2176	Q411659	acute myeloid leukemia	daunorubicin
-217	Q264118	P2176	Q6842945	acute myeloid leukemia	midostaurin
-218	Q264118	P2176	Q212272	acute myeloid leukemia	hydroxyurea
-219	Q264118	P2176	Q1063862	acute myeloid leukemia	idarubicin
-220	Q264118	P2176	Q422232	acute myeloid leukemia	methotrexate
-221	Q264118	P2176	Q27895847	acute myeloid leukemia	thioguanine hydrate
-222	Q264118	P2176	Q5251502	acute myeloid leukemia	deferasirox
-223	Q264118	P2176	Q7041828	acute myeloid leukemia	nivolumab
-224	Q264118	P2176	Q239426	acute myeloid leukemia	mitoxantrone
-225	Q264118	P2176	Q412685	acute myeloid leukemia	gemtuzumab ozogamicin
-226	Q264118	P2176	Q1181878	acute myeloid leukemia	decitabine
-227	Q264118	P2176	Q7383611	acute myeloid leukemia	ruxolitinib
-228	Q264118	P2176	Q180983	acute myeloid leukemia	cytarabine
-229	Q264118	P2176	Q421136	acute myeloid leukemia	sorafenib
-230	Q264118	P2176	Q27077182	acute myeloid leukemia	enasidenib
-231	Q264118	P2176	Q23671272	acute myeloid leukemia	venetoclax
-232	Q264118	P2176	Q385347	acute myeloid leukemia	6-thioguanine
-233	Q264118	P2176	Q421052	acute myeloid leukemia	everolimus
-234	Q264118	P2176	Q5134875	acute myeloid leukemia	clofarabine
-235	Q264118	P2176	Q408524	acute myeloid leukemia	(RS)-cyclophosphamide
-236	Q264118	P2176	Q27139135	acute myeloid leukemia	dasatinib monohydrate
-237	Q264118	P2176	Q18936	acute myeloid leukemia	doxorubicin
-238	Q264118	P2176	Q29417	acute myeloid leukemia	tretinoin
-239	Q264118	P2176	Q348922	acute myeloid leukemia	busulfan
-240	Q264118	P2176	Q416451	acute myeloid leukemia	azacitidine
-241	Q264118	P2176	Q418817	acute myeloid leukemia	etoposide
-242	Q18031010	P5572	Q163987	RAD21	thymus
-243	Q18031010	P5572	Q753278	RAD21	substantia nigra
-244	Q18031010	P5572	Q75839	RAD21	cerebral cortex
-245	Q18031010	P5572	Q9377	RAD21	kidney
-246	Q18031010	P5572	Q28656741	RAD21	upper lobe of lung
-247	Q18031010	P5572	Q1072	RAD21	heart
-248	Q18031010	P5572	Q9368	RAD21	liver
-249	Q18033696	P2293	Q41112	KALRN	schizophrenia
-250	Q18033696	P5572	Q11397859	KALRN	frontal pole
-251	Q18033696	P5572	Q2349469	KALRN	ascending aorta
-252	Q18033696	P5572	Q7886	KALRN	lung
-253	Q18033696	P5572	Q18680	KALRN	prefrontal cortex
-254	Q18033696	P5572	Q223851	KALRN	corpus callosum
-255	Q18033696	P5572	Q3064113	KALRN	superior frontal gyrus
-256	Q18033696	P5572	Q615993	KALRN	thoracic aorta
-257	Q18255990	P1912	Q11081	Abca7	Alzheimer's disease
-258	Q18035316	P2293	Q11081	ABCA7	Alzheimer's disease
-259	Q18035316	P2293	Q102293268	ABCA7	Alzheimer's disease 9
-260	Q18035316	P5572	Q546523	ABCA7	bone marrow
-261	Q18035316	P5572	Q5064075	ABCA7	cerebellar hemisphere
-262	Q18035316	P5572	Q170758	ABCA7	lymph node
-263	Q18035316	P5572	Q3108494	ABCA7	minor salivary gland
-264	Q18035316	P5572	Q356002	ABCA7	anterior pituitary
-265	Q18035316	P5572	Q7873	ABCA7	blood
-266	Q18035316	P5572	Q9371	ABCA7	spleen
-267	Q18035316	P5572	Q156871	ABCA7	pituitary gland
-268	Q18053467	P1910	Q3658562	SLC39A12	non-small-cell lung carcinoma
-269	Q18301168	P1910	Q62985106	Slc39a12	Neurite outgrowth defects in hippocampal neurons from mice lacking biogenesis of lysosome-related organelles complex-1 (BLOC-1)
-270	Q18301168	P1911	Q14851900	Slc39a12	positive regulation of cytokine production
-271	Q18053467	P1911	Q41112	SLC39A12	schizophrenia
-272	Q18301168	P1911	Q964401	Slc39a12	fertility
-273	Q18053467	P1916	Q18556542	SLC39A12	esophagus adenocarcinoma
-274	Q24370105	P2293	Q1128595	Slc39a12	pulmonary hypertension
-275	Q18053467	P5572	Q7308967	SLC39A12	hippocampus proper
-276	Q18053467	P5572	Q2346242	SLC39A12	retinal pigment epithelium
-277	Q18053467	P5572	Q956517	SLC39A12	postcentral gyrus
-278	Q18053467	P5572	Q1073	SLC39A12	brain
-279	Q18053467	P5572	Q223851	SLC39A12	corpus callosum
-280	Q18053467	P5572	Q72788	SLC39A12	dorsolateral prefrontal cortex
-281	Q18053467	P5572	Q3078809	SLC39A12	cerebellar vermis
+	subjectQID	predicatePID	objectQID	subject	object	qualifierID	qualifier
+0	Q57055	P769	Q423364	paracetamol	propranolol	Q23173789	EXP
+1	Q57055	P769	Q1135705	paracetamol	rifabutin	Q23173789	EXP
+2	Q57055	P769	Q410412	paracetamol	carbamazepin	Q23173789	EXP
+3	Q57055	P769	Q177094	paracetamol	imatinib	Q23173789	EXP
+4	Q57055	P769	Q304088	paracetamol	acenocoumarol	Q23173789	EXP
+5	Q57055	P769	Q410400	paracetamol	phenytoin	Q23173789	EXP
+6	Q57055	P769	Q423169	paracetamol	isoniazid	Q23173789	EXP
+7	Q57055	P769	Q422652	paracetamol	rifampicin	Q23173789	EXP
+8	Q14906849	P1912	Q4907578	Col3a1	Bilateral frontoparietal polymicrogyria	Q23174671	IMP
+9	Q14906849	P1916	Q5340515	Col3a1	systemic scleroderma	Q23174671	IMP
+10	Q422252	P2175	Q1963588	dexamethasone	hematopoietic system diseases	Q23173789	EXP
+11	Q422252	P2175	Q280027	dexamethasone	uveitis	Q23173789	EXP
+12	Q422252	P2175	Q208414	dexamethasone	lymphoma	Q23173789	EXP
+13	Q422252	P2175	Q84263196	dexamethasone	COVID-19	Q23173789	EXP
+14	Q155746	P2175	Q476921	paricalcitol	kidney failure	Q23173789	EXP
+15	Q15708271	P2175	Q1072420	obeticholic acid	primary biliary cirrhosis	Q23173789	EXP
+16	Q155746	P2175	Q1344835	paricalcitol	hyperparathyroidism	Q23173789	EXP
+17	Q57055	P2175	Q56003062	paracetamol	susceptibility to severe influenza	Q23173789	EXP
+18	Q422252	P2175	Q1088156	dexamethasone	chronic lymphocytic leukemia	Q23173789	EXP
+19	Q422185	P2175	Q41861	enalapril	arterial hypertension	Q23173789	EXP
+20	Q422252	P2175	Q8282	dexamethasone	Addison's disease	Q23173789	EXP
+21	Q57055	P2175	Q242165	paracetamol	hyperthermia	Q23173789	EXP
+22	Q422252	P2175	Q1138590	dexamethasone	non-Hodgkin lymphoma	Q23173789	EXP
+23	Q422252	P2175	Q127076	dexamethasone	vomiting	Q23173789	EXP
+24	Q415571	P2175	Q180614	Bleomycin	melanoma	Q23173789	EXP
+25	Q422252	P2175	Q18554884	dexamethasone	retinal vein occlusion	Q23173789	EXP
+26	Q422185	P2175	Q19000661	enalapril	congestive heart failure	Q23173789	EXP
+27	Q422185	P2175	Q790971	enalapril	Bartter disease	Q23173789	EXP
+28	Q422185	P2175	Q1641132	enalapril	malignant hypertension	Q23173789	EXP
+29	Q422252	P2175	Q5958765	dexamethasone	hypersensitivity	Q23173789	EXP
+30	Q415571	P2175	Q12284921	Bleomycin	lymphosarcoma	Q23173789	EXP
+31	Q155746	P2175	Q1054718	paricalcitol	kidney disease	Q23173789	EXP
+32	Q422252	P2175	Q816798	dexamethasone	amyloidosis	Q23173789	EXP
+33	Q422185	P2175	Q486485	enalapril	anasarka	Q23173789	EXP
+34	Q15708271	P2175	Q147778	obeticholic acid	liver cirrhosis	Q23173789	EXP
+35	Q415571	P2175	Q681817	Bleomycin	squamous cell carcinoma	Q23173789	EXP
+36	Q155746	P2175	Q736715	paricalcitol	chronic kidney disease	Q23173789	EXP
+37	Q422252	P2175	Q55789426	dexamethasone	precursor T-cell acute lymphoblastic leukemia	Q23173789	EXP
+38	Q422252	P2175	Q268713	dexamethasone	mantle cell lymphoma	Q23173789	EXP
+39	Q422252	P2175	Q1765564	dexamethasone	septic shock	Q23173789	EXP
+40	Q155746	P2175	Q3622611	paricalcitol	secondary hyperparathyroidism	Q23173789	EXP
+41	Q415571	P2175	Q18975788	Bleomycin	spindle cell sarcoma	Q23173789	EXP
+42	Q415571	P2175	Q18557991	Bleomycin	Hodgkin's lymphoma, mixed cellularity	Q23173789	EXP
+43	Q57055	P2175	Q81938	paracetamol	pain	Q23173789	EXP
+44	Q422252	P2175	Q18556331	dexamethasone	cystoid macular edema	Q23173789	EXP
+45	Q422252	P2175	Q1813737	dexamethasone	macular retinal edema	Q23173789	EXP
+46	Q415571	P2175	Q324464	Bleomycin	testicular cancer	Q23173789	EXP
+47	Q15708271	P2175	Q603644	obeticholic acid	cholangitis	Q23173789	EXP
+48	Q422185	P2175	Q187255	enalapril	rheumatoid arthritis	Q23173789	EXP
+49	Q422252	P2175	Q12078	dexamethasone	cancer	Q23173789	EXP
+50	Q57055	P2175	Q3936113	paracetamol	nasopharyngitis	Q23173789	EXP
+51	Q422252	P2175	Q979168	dexamethasone	cerebral edema	Q23173789	EXP
+52	Q422252	P2175	Q101991	dexamethasone	inflammation	Q23173789	EXP
+53	Q422252	P2175	Q2626074	dexamethasone	diffuse large B-cell lymphoma	Q23173789	EXP
+54	Q422252	P2175	Q8084905	dexamethasone	autoimmune disease	Q23173789	EXP
+55	Q422185	P7830	Enalapril	enalapril	Enalapril	Q23173789	EXP
+56	Q57055	P7830	Acetaminophen	paracetamol	Acetaminophen	Q23173789	EXP
+57	Q415571	P7830	Bleomycin	Bleomycin	Bleomycin	Q23173789	EXP
+58	Q15708271	P7830	ObeticholicAcid	obeticholic acid	ObeticholicAcid	Q23173789	EXP
+59	Q415571	P8026	Q83284515	Bleomycin	LiverTox toxicity likelihood category D	Q23173789	EXP
+60	Q422185	P8026	Q83284157	enalapril	LiverTox toxicity likelihood category B	Q23173789	EXP
+61	Q15708271	P8026	Q83284157	obeticholic acid	LiverTox toxicity likelihood category B	Q23173789	EXP
+62	Q415571	P3771	Q24419440	Bleomycin	Col3a1	Q23173789	EXP
+63	Q415571	P3771	Q14906849	Bleomycin	Col3a1	Q23173789	EXP
+64	Q1649777	P3771	Q14906847	quercitrin	COL3A1	Q23173789	EXP
+65	Q6954330	P3771	Q14906847	9-(N-methyl-L-isoleucine)-cyclosporin a	COL3A1	Q23173789	EXP
+66	Q57055	P3771	Q14906849	paracetamol	Col3a1	Q23173789	EXP
+67	Q422185	P3771	Q14906849	enalapril	Col3a1	Q23173789	EXP
+68	Q155746	P3771	Q14906849	paricalcitol	Col3a1	Q23173789	EXP
+69	Q422252	P3776	Q14906849	dexamethasone	Col3a1	Q23173789	EXP
+70	Q15708271	P3776	Q24419440	obeticholic acid	Col3a1	Q23173789	EXP
+71	Q18254813	P1910	Q187255	Tbx3	rheumatoid arthritis	Q23173789	EXP
+72	Q18031866	P1910	Q12174	TBX3	obesity	Q155207	case study
+73	Q18031866	P1910	Q12174	TBX3	obesity	Q23175251	IEP
+74	Q18031866	P1910	Q12174	TBX3	obesity	Q23173789	EXP
+75	Q18031866	P1911	Q188874	TBX3	colorectal cancer	Q155207	case study
+76	Q18031866	P1911	Q1076087	TBX3	chondrosarcoma	Q23173789	EXP
+77	Q18031866	P1911	Q623031	TBX3	liver cancer	Q155207	case study
+78	Q18031866	P1911	Q180614	TBX3	melanoma	Q155207	case study
+79	Q18031866	P1911	Q188874	TBX3	colorectal cancer	Q23175251	IEP
+80	Q18031866	P1911	Q623031	TBX3	liver cancer	Q23175251	IEP
+81	Q18031866	P1911	Q180614	TBX3	melanoma	Q23175251	IEP
+82	Q18031866	P1911	Q188874	TBX3	colorectal cancer	Q23173789	EXP
+83	Q18031866	P1911	Q623031	TBX3	liver cancer	Q23173789	EXP
+84	Q18031866	P1911	Q212961	TBX3	pancreatic cancer	Q155207	case study
+85	Q18031866	P1911	Q180614	TBX3	melanoma	Q23173789	EXP
+86	Q18031866	P1911	Q212961	TBX3	pancreatic cancer	Q23175251	IEP
+87	Q18031866	P1911	Q172341	TBX3	ovarian cancer	Q155207	case study
+88	Q18031866	P1911	Q128581	TBX3	breast cancer	Q155207	case study
+89	Q18031866	P1911	Q172341	TBX3	ovarian cancer	Q23175251	IEP
+90	Q18031866	P1911	Q128581	TBX3	breast cancer	Q23175251	IEP
+91	Q18031866	P1911	Q212961	TBX3	pancreatic cancer	Q23173789	EXP
+92	Q18031866	P1911	Q172341	TBX3	ovarian cancer	Q23173789	EXP
+93	Q18031866	P1911	Q1076087	TBX3	chondrosarcoma	Q23175251	IEP
+94	Q18031866	P1911	Q128581	TBX3	breast cancer	Q23173789	EXP
+95	Q18031866	P1911	Q3658562	TBX3	non-small-cell lung carcinoma	Q155207	case study
+96	Q18031866	P1911	Q3658562	TBX3	non-small-cell lung carcinoma	Q23175251	IEP
+97	Q18031866	P1911	Q1362453	TBX3	fibrosarcoma	Q155207	case study
+98	Q18031866	P1911	Q1783924	TBX3	head and neck cancer	Q155207	case study
+99	Q18031866	P1911	Q1362453	TBX3	fibrosarcoma	Q23175251	IEP
+100	Q18031866	P1911	Q3658562	TBX3	non-small-cell lung carcinoma	Q23173789	EXP
+101	Q18031866	P1911	Q1783924	TBX3	head and neck cancer	Q23175251	IEP
+102	Q18031866	P1911	Q3658392	TBX3	stomach carcinoma	Q155207	case study
+103	Q18031866	P1911	Q3658392	TBX3	stomach carcinoma	Q23175251	IEP
+104	Q18031866	P1911	Q1827425	TBX3	liposarcoma	Q155207	case study
+105	Q18031866	P1911	Q1827425	TBX3	liposarcoma	Q23175251	IEP
+106	Q18031866	P1911	Q1362453	TBX3	fibrosarcoma	Q23173789	EXP
+107	Q18031866	P1911	Q1783924	TBX3	head and neck cancer	Q23173789	EXP
+108	Q18031866	P1911	Q3658392	TBX3	stomach carcinoma	Q23173789	EXP
+109	Q18031866	P1911	Q1898141	TBX3	rhabdomyosarcoma	Q155207	case study
+110	Q18031866	P1911	Q1827425	TBX3	liposarcoma	Q23173789	EXP
+111	Q18031866	P1911	Q1898141	TBX3	rhabdomyosarcoma	Q23175251	IEP
+112	Q18031866	P1911	Q1076087	TBX3	chondrosarcoma	Q155207	case study
+113	Q18031866	P1911	Q1898141	TBX3	rhabdomyosarcoma	Q23173789	EXP
+114	Q18031866	P1912	Q7879712	TBX3	ulnar-mammary syndrome	Q23173789	EXP
+115	Q18031866	P1912	Q7879712	TBX3	ulnar-mammary syndrome	Q155207	case study
+116	Q18031866	P1912	Q7879712	TBX3	ulnar-mammary syndrome	Q23175251	IEP
+117	Q18031866	P1918	Q504775	TBX3	bladder cancer	Q155207	case study
+118	Q18031866	P1918	Q504775	TBX3	bladder cancer	Q23175251	IEP
+119	Q18031866	P1918	Q504775	TBX3	bladder cancer	Q23173789	EXP
+120	Q18031866	P2293	Q188874	TBX3	colorectal cancer	Q155207	case study
+121	Q18031866	P2293	Q188874	TBX3	colorectal cancer	Q23175251	IEP
+122	Q18031866	P2293	Q7879712	TBX3	ulnar-mammary syndrome	Q23173789	EXP
+123	Q18031866	P2293	Q188874	TBX3	colorectal cancer	Q23173789	EXP
+124	Q18031866	P2293	Q7879712	TBX3	ulnar-mammary syndrome	Q155207	case study
+125	Q18031866	P2293	Q7879712	TBX3	ulnar-mammary syndrome	Q23175251	IEP
+126	Q18031866	P5572	Q712294	TBX3	adrenal gland	Q23173789	EXP
+127	Q18031866	P5572	Q5938041	TBX3	right lung	Q155207	case study
+128	Q18031866	P5572	Q5938041	TBX3	right lung	Q23175251	IEP
+129	Q18031866	P5572	Q9386	TBX3	urethra	Q155207	case study
+130	Q18031866	P5572	Q9625	TBX3	prostate	Q155207	case study
+131	Q18031866	P5572	Q5938041	TBX3	right lung	Q23173789	EXP
+132	Q18031866	P5572	Q9386	TBX3	urethra	Q23175251	IEP
+133	Q18031866	P5572	Q9625	TBX3	prostate	Q23175251	IEP
+134	Q18031866	P5572	Q19065	TBX3	adrenal cortex	Q155207	case study
+135	Q18031866	P5572	Q19065	TBX3	adrenal cortex	Q23175251	IEP
+136	Q18031866	P5572	Q712294	TBX3	adrenal gland	Q155207	case study
+137	Q18031866	P5572	Q9386	TBX3	urethra	Q23173789	EXP
+138	Q18031866	P5572	Q9625	TBX3	prostate	Q23173789	EXP
+139	Q18031866	P5572	Q712294	TBX3	adrenal gland	Q23175251	IEP
+140	Q18031866	P5572	Q19065	TBX3	adrenal cortex	Q23173789	EXP
+141	Q14881093	P2293	Q928424	TAFAZZIN	Barth syndrome	Q155207	case study
+142	Q14881093	P2293	Q928424	TAFAZZIN	Barth syndrome	Q30612	clinical trial
+143	Q14881093	P5572	Q9371	TAFAZZIN	spleen	Q30612	clinical trial
+144	Q14881093	P5572	Q7873	TAFAZZIN	blood	Q155207	case study
+145	Q14881093	P5572	Q170758	TAFAZZIN	lymph node	Q155207	case study
+146	Q14881093	P5572	Q9371	TAFAZZIN	spleen	Q155207	case study
+147	Q14881093	P5572	Q7873	TAFAZZIN	blood	Q30612	clinical trial
+148	Q14881093	P5572	Q170758	TAFAZZIN	lymph node	Q30612	clinical trial
+149	Q15311673	P1916	Q63226395	SMC1A	Cornelia de Lange syndrome 2	Q155207	case study
+150	Q15311673	P5572	Q1759640	SMC1A	cancellous bone	Q155207	case study
+151	Q15311673	P5572	Q2346242	SMC1A	retinal pigment epithelium	Q155207	case study
+152	Q15311673	P5572	Q9368	SMC1A	liver	Q155207	case study
+153	Q15311673	P5572	Q27043948	SMC1A	material anatomical entity	Q155207	case study
+154	Q15311673	P5572	Q9656	SMC1A	appendix	Q155207	case study
+155	Q15311673	P5572	Q33196	SMC1A	embryo	Q155207	case study
+156	Q15311673	P5572	Q6135922	SMC1A	sural nerve	Q155207	case study
+157	Q18252303	P1911	Q12301086	Mid1	allergic asthma	Q23174671	IMP
+158	Q18029131	P1911	Q181257	MID1	prostate cancer	Q155207	case study
+159	Q18252303	P1911	Q12301086	Mid1	allergic asthma	Q23173789	EXP
+160	Q18029131	P1911	Q181257	MID1	prostate cancer	Q23175251	IEP
+161	Q18029131	P1911	Q11081	MID1	Alzheimer's disease	Q155207	case study
+162	Q18029131	P1911	Q11081	MID1	Alzheimer's disease	Q23175251	IEP
+163	Q18252303	P1912	Q3508750	Mid1	Opitz-GBBB syndrome	Q23174671	IMP
+164	Q18252303	P1912	Q3508750	Mid1	Opitz-GBBB syndrome	Q23173789	EXP
+165	Q18029131	P1915	Q3508750	MID1	Opitz-GBBB syndrome	Q23175251	IEP
+166	Q18029131	P1915	Q3508750	MID1	Opitz-GBBB syndrome	Q155207	case study
+167	Q18029131	P5572	Q866324	MID1	hair follicle	Q155207	case study
+168	Q18029131	P5572	Q753278	MID1	substantia nigra	Q155207	case study
+169	Q18029131	P5572	Q29578493	MID1	squamous epithelium	Q155207	case study
+170	Q18029131	P5572	Q866324	MID1	hair follicle	Q23175251	IEP
+171	Q18029131	P5572	Q753278	MID1	substantia nigra	Q23175251	IEP
+172	Q18029131	P5572	Q29578493	MID1	squamous epithelium	Q23175251	IEP
+173	Q18029131	P5572	Q75839	MID1	cerebral cortex	Q155207	case study
+174	Q18029131	P5572	Q75839	MID1	cerebral cortex	Q23175251	IEP
+175	Q18029131	P5572	Q84133	MID1	myocardium	Q155207	case study
+176	Q18029131	P5572	Q84133	MID1	myocardium	Q23175251	IEP
+177	Q18299303	P1912	Q12174	Mrap2	obesity	Q23174671	IMP
+178	Q18048856	P1916	Q12174	MRAP2	obesity	Q23175558	ISS
+179	Q18048856	P5572	Q615993	MRAP2	thoracic aorta	Q23175558	ISS
+180	Q18048856	P5572	Q2349469	MRAP2	ascending aorta	Q23175558	ISS
+181	Q18048856	P5572	Q18680	MRAP2	prefrontal cortex	Q23175558	ISS
+182	Q18048856	P5572	Q575064	MRAP2	synovial membrane	Q23175558	ISS
+183	Q18048856	P5572	Q5407200	MRAP2	middle temporal gyrus	Q23175558	ISS
+184	Q18048856	P5572	Q707468	MRAP2	popliteal artery	Q23175558	ISS
+185	Q264118	P780	Q254327	acute myeloid leukemia	anorexia	Q155207	case study
+186	Q264118	P780	Q718113	acute myeloid leukemia	weight loss	Q155207	case study
+187	Q264118	P780	Q9690	acute myeloid leukemia	fatigue	Q155207	case study
+188	Q264118	P780	Q5445	acute myeloid leukemia	anemia	Q155207	case study
+189	Q264118	P780	Q1129121	acute myeloid leukemia	splenomegaly	Q155207	case study
+190	Q264118	P780	Q166019	acute myeloid leukemia	bleeding	Q155207	case study
+191	Q264118	P2293	Q17861031	acute myeloid leukemia	CEBPA	Q155207	case study
+192	Q264118	P2293	Q20969980	acute myeloid leukemia	KRAS	Q155207	case study
+193	Q264118	P2293	Q18034873	acute myeloid leukemia	RABGAP1L	Q155207	case study
+194	Q264118	P2293	Q18030425	acute myeloid leukemia	PDGFRB	Q155207	case study
+195	Q264118	P2293	Q20969938	acute myeloid leukemia	KIT	Q155207	case study
+196	Q264118	P2293	Q14912399	acute myeloid leukemia	FLT3	Q155207	case study
+197	Q18031010	P2293	Q17119515	RAD21	Mungan syndrome	Q155207	case study
+198	Q264118	P2293	Q14914527	acute myeloid leukemia	ETV6	Q155207	case study
+199	Q264118	P2293	Q7389878	acute myeloid leukemia	SETBP1	Q155207	case study
+200	Q264118	P2293	Q14914514	acute myeloid leukemia	JAK2	Q155207	case study
+201	Q264118	P2293	Q18039571	acute myeloid leukemia	SETD2	Q155207	case study
+202	Q18031010	P2293	Q264118	RAD21	acute myeloid leukemia	Q155207	case study
+203	Q264118	P2293	Q18031010	acute myeloid leukemia	RAD21	Q155207	case study
+204	Q18031010	P2293	Q7434154	RAD21	sclerocornea	Q155207	case study
+205	Q18031010	P2293	Q1133289	RAD21	Cornelia de Lange syndrome	Q155207	case study
+206	Q264118	P2176	Q27139135	acute myeloid leukemia	dasatinib monohydrate	Q155207	case study
+207	Q264118	P2176	Q348922	acute myeloid leukemia	busulfan	Q155207	case study
+208	Q264118	P2176	Q421052	acute myeloid leukemia	everolimus	Q155207	case study
+209	Q264118	P2176	Q23671272	acute myeloid leukemia	venetoclax	Q155207	case study
+210	Q264118	P2176	Q1181878	acute myeloid leukemia	decitabine	Q155207	case study
+211	Q264118	P2176	Q5251502	acute myeloid leukemia	deferasirox	Q155207	case study
+212	Q264118	P2176	Q180983	acute myeloid leukemia	cytarabine	Q155207	case study
+213	Q264118	P2176	Q422232	acute myeloid leukemia	methotrexate	Q155207	case study
+214	Q264118	P2176	Q1063862	acute myeloid leukemia	idarubicin	Q155207	case study
+215	Q264118	P2176	Q418817	acute myeloid leukemia	etoposide	Q155207	case study
+216	Q264118	P2176	Q412685	acute myeloid leukemia	gemtuzumab ozogamicin	Q155207	case study
+217	Q264118	P2176	Q421136	acute myeloid leukemia	sorafenib	Q155207	case study
+218	Q264118	P2176	Q411659	acute myeloid leukemia	daunorubicin	Q155207	case study
+219	Q264118	P2176	Q27895847	acute myeloid leukemia	thioguanine hydrate	Q155207	case study
+220	Q264118	P2176	Q29417	acute myeloid leukemia	tretinoin	Q155207	case study
+221	Q264118	P2176	Q7383611	acute myeloid leukemia	ruxolitinib	Q155207	case study
+222	Q264118	P2176	Q416451	acute myeloid leukemia	azacitidine	Q155207	case study
+223	Q264118	P2176	Q27077182	acute myeloid leukemia	enasidenib	Q155207	case study
+224	Q264118	P2176	Q212272	acute myeloid leukemia	hydroxyurea	Q155207	case study
+225	Q264118	P2176	Q6842945	acute myeloid leukemia	midostaurin	Q155207	case study
+226	Q264118	P2176	Q408524	acute myeloid leukemia	(RS)-cyclophosphamide	Q155207	case study
+227	Q264118	P2176	Q385347	acute myeloid leukemia	6-thioguanine	Q155207	case study
+228	Q264118	P2176	Q7041828	acute myeloid leukemia	nivolumab	Q155207	case study
+229	Q264118	P2176	Q239426	acute myeloid leukemia	mitoxantrone	Q155207	case study
+230	Q264118	P2176	Q18936	acute myeloid leukemia	doxorubicin	Q155207	case study
+231	Q264118	P2176	Q5134875	acute myeloid leukemia	clofarabine	Q155207	case study
+232	Q18031010	P5572	Q163987	RAD21	thymus	Q155207	case study
+233	Q18031010	P5572	Q75839	RAD21	cerebral cortex	Q155207	case study
+234	Q18031010	P5572	Q28656741	RAD21	upper lobe of lung	Q155207	case study
+235	Q18031010	P5572	Q9368	RAD21	liver	Q155207	case study
+236	Q18031010	P5572	Q753278	RAD21	substantia nigra	Q155207	case study
+237	Q18031010	P5572	Q9377	RAD21	kidney	Q155207	case study
+238	Q18031010	P5572	Q1072	RAD21	heart	Q155207	case study
+239	Q18033696	P2293	Q41112	KALRN	schizophrenia	Q23174671	IMP
+240	Q18033696	P5572	Q3064113	KALRN	superior frontal gyrus	Q23174671	IMP
+241	Q18033696	P5572	Q223851	KALRN	corpus callosum	Q23174671	IMP
+242	Q18033696	P5572	Q7886	KALRN	lung	Q23174671	IMP
+243	Q18033696	P5572	Q18680	KALRN	prefrontal cortex	Q23174671	IMP
+244	Q18033696	P5572	Q11397859	KALRN	frontal pole	Q23174671	IMP
+245	Q18033696	P5572	Q615993	KALRN	thoracic aorta	Q23174671	IMP
+246	Q18033696	P5572	Q2349469	KALRN	ascending aorta	Q23174671	IMP
+247	Q18255990	P1912	Q11081	Abca7	Alzheimer's disease	Q23173789	EXP
+248	Q18035316	P2293	Q11081	ABCA7	Alzheimer's disease	Q23174671	IMP
+249	Q18035316	P2293	Q102293268	ABCA7	Alzheimer's disease 9	Q23174671	IMP
+250	Q18035316	P5572	Q5064075	ABCA7	cerebellar hemisphere	Q23174671	IMP
+251	Q18035316	P5572	Q7873	ABCA7	blood	Q23174671	IMP
+252	Q18035316	P5572	Q170758	ABCA7	lymph node	Q23174671	IMP
+253	Q18035316	P5572	Q9371	ABCA7	spleen	Q23174671	IMP
+254	Q18035316	P5572	Q3108494	ABCA7	minor salivary gland	Q23174671	IMP
+255	Q18035316	P5572	Q546523	ABCA7	bone marrow	Q23174671	IMP
+256	Q18035316	P5572	Q356002	ABCA7	anterior pituitary	Q23174671	IMP
+257	Q18035316	P5572	Q156871	ABCA7	pituitary gland	Q23174671	IMP
+258	Q18053467	P1910	Q3658562	SLC39A12	non-small-cell lung carcinoma	Q23173789	EXP
+259	Q18053467	P1910	Q3658562	SLC39A12	non-small-cell lung carcinoma	Q30612	clinical trial
+260	Q18301168	P1910	Q62985106	Slc39a12	Neurite outgrowth defects in hippocampal neurons from mice lacking biogenesis of lysosome-related organelles complex-1 (BLOC-1)	Q23173789	EXP
+261	Q18301168	P1911	Q964401	Slc39a12	fertility	Q23173789	EXP
+262	Q18053467	P1911	Q41112	SLC39A12	schizophrenia	Q30612	clinical trial
+263	Q18301168	P1911	Q14851900	Slc39a12	positive regulation of cytokine production	Q23173789	EXP
+264	Q18053467	P1911	Q41112	SLC39A12	schizophrenia	Q23173789	EXP
+265	Q18053467	P1916	Q18556542	SLC39A12	esophagus adenocarcinoma	Q23173789	EXP
+266	Q18053467	P1916	Q18556542	SLC39A12	esophagus adenocarcinoma	Q30612	clinical trial
+267	Q24370105	P2293	Q1128595	Slc39a12	pulmonary hypertension	Q23174671	IMP
+268	Q18053467	P5572	Q223851	SLC39A12	corpus callosum	Q23173789	EXP
+269	Q18053467	P5572	Q3078809	SLC39A12	cerebellar vermis	Q30612	clinical trial
+270	Q18053467	P5572	Q223851	SLC39A12	corpus callosum	Q30612	clinical trial
+271	Q18053467	P5572	Q72788	SLC39A12	dorsolateral prefrontal cortex	Q23173789	EXP
+272	Q18053467	P5572	Q956517	SLC39A12	postcentral gyrus	Q23173789	EXP
+273	Q18053467	P5572	Q1073	SLC39A12	brain	Q23173789	EXP
+274	Q18053467	P5572	Q7308967	SLC39A12	hippocampus proper	Q23173789	EXP
+275	Q18053467	P5572	Q72788	SLC39A12	dorsolateral prefrontal cortex	Q30612	clinical trial
+276	Q18053467	P5572	Q956517	SLC39A12	postcentral gyrus	Q30612	clinical trial
+277	Q18053467	P5572	Q1073	SLC39A12	brain	Q30612	clinical trial
+278	Q18053467	P5572	Q7308967	SLC39A12	hippocampus proper	Q30612	clinical trial
+279	Q18053467	P5572	Q2346242	SLC39A12	retinal pigment epithelium	Q23173789	EXP
+280	Q18053467	P5572	Q2346242	SLC39A12	retinal pigment epithelium	Q30612	clinical trial
+281	Q18053467	P5572	Q3078809	SLC39A12	cerebellar vermis	Q23173789	EXP
