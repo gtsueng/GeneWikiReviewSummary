@@ -1,0 +1,47 @@
+---
+title: "GeneWiki"
+author: "Sabah Ul-Hasan"
+date: "12/9/2021"
+---
+
+Install relevant packages
+```{r}
+
+install.packages("timelineS")
+packageVersion("timelineS") # v0.1.1
+library(timelineS)
+
+```
+
+Test example (life of Michael Jackson)
+```{r}
+
+timelineS(mj_life, main = "Life of Michael Jackson")
+
+```
+
+Adjusted aesthetics of test example
+```{r}
+
+timelineS(mj_life, main = "Life of Michael Jackson", 
+label.direction = "up", label.length = c(0.2,0.8,0.4,1.2), label.position = 3, 
+line.color = "blue", label.color = "blue", point.color = "blue", pch = "-")
+
+```
+
+Gene Wiki timleine (Figure)
+```{r}
+
+mj_life
+
+# Set working directory 
+setwd("/Users/sulhasan/Downloads")
+
+# Upload .csv of data 
+gw <- read.csv("GeneWikiTimeline.csv") # must be in yyyy-mm-dd format prior to upload
+gw$Event_Dates <- as.Date(gw$Event_Dates)
+
+gwtimeline <- timelineS(gw, main = "Gene Wiki Timeline")
+
+```
+

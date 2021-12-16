@@ -1,0 +1,102 @@
+{
+    "timeline" : {
+        "name" : "Gene Wiki Timeline",
+        "description" : ""
+    },
+
+    "groups" : [
+          ],
+
+    "events" : [
+              {
+          "name" : "First Gene Wiki Review Published",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2013 9 5 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "internal process improvements",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2014 5 14 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "First disease-focused (Cardiac) Gene Wiki Review accepted",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2015 4 30 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "Virtual special issue created for series",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2015 7 8",
+          "group" : ""
+        },
+              {
+          "name" : "Editorial team expanded",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2015 10 6 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "First Rare Disease (NGLY1) Gene Wiki Review Accepted",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2015 11 19",
+          "group" : ""
+        },
+              {
+          "name" : "Assessment",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2016 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "Inclusion of Wikidata",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2018 10 20 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "First Rare Disease Gene Wiki Review with Wikidata Published",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2019 4 19",
+          "group" : ""
+        },
+              {
+          "name" : "Close of Series",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2021 12 24",
+          "group" : ""
+        }    ],
+
+    "periods" : [
+          ],
+
+    "progresses" : [
+          ],
+
+    "statistics" : [
+          ],
+
+    "statisticsYandexMetrika" : [
+          ],
+
+    "statisticsGoogleAnalytics" : [
+          ],
+
+    "reportingAPIs" : [
+          ],
+
+    "tags" : [
+          ]
+}
