@@ -1,0 +1,29 @@
+---
+title: "GeneWiki-Timeline_Rscript"
+author: "Sabah Ul-Hasan"
+---
+
+Install relevant packages
+```{r}
+
+install.packages("timelineS") # https://github.com/daheelee/timelineS
+packageVersion("timelineS") # v0.1.1
+library(timelineS)
+
+install.packages("RCurl") 
+packageVersion("RCurl") # v1.98.1.5
+library(RCurl)
+
+```
+
+Gene Wiki Timleine (Figure)
+```{r}
+
+# Use RCurl to read raw file from Github
+gwt <- read.csv(text=getURL("https://raw.githubusercontent.com/gtsueng/GeneWikiReviewSummary/main/Timeline/GeneWiki-Timeline_Formatted.csv")) # Event_Dates column must be in yyyy-mm-dd format 
+gwt$Event_Dates <- as.Date(gwt$Event_Dates)
+
+# Figure
+gwTimeline <- timelineS(gwt, main = "Gene Wiki Timeline")
+
+```
